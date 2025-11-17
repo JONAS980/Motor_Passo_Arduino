@@ -2,6 +2,7 @@
 Controle Motor de Passo em modo Half-Step através de um Arduino Mega e com controle Através Interface Criada com Processing IDE(https://processing.org/) comunicando pela rede serial padrão do Arduino
 
 Hadware:
+
 1 Arduino Mega. ||
 
 1 Placa de reguladora de Tensão Com 1 saida 3.3V e 1 saida 5V. ||
