@@ -7,6 +7,8 @@ Hadware:
 1 Driver Uln2003 
 1 Motor De Passo 28byj-48
 
+Projeto basico para testar aplicação de teste da Processing IDE(https://processing.org/)
+
 
 <img width="492" height="657" alt="image" src="https://github.com/user-attachments/assets/5650dacb-78d2-45e4-a4ef-4c1ea6306092" />
 
