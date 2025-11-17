@@ -1,3 +1,21 @@
+/*----------------------------------------------------------------------------------------------------------------- 
+Programa    : motor_passo_half_step.ino
+Data        : 17/11/2025
+Autor       : Jonas Rocha
+Descrição   : 
+      # Motor_Passo_Arduino
+      Controle Motor de Passo em modo Half-Step através de um Arduino Mega e com controle Através Interface Criada com Processing IDE(https://processing.org/) comunicando pela rede serial padrão do Arduino
+
+      Hadware: || 
+      1 Arduino Mega. ||
+      1 Placa de reguladora de Tensão Com 1 saida 3.3V e 1 saida 5V. ||
+      1 Driver Uln200. ||
+      1 Motor De Passo 28byj-48. ||
+
+      Projeto basico para testar aplicação de teste da Processing IDE(https://processing.org/)
+-------------------------------------------------------------------------------------------------------------------*/
+
+
 // --- Pinos de Controle do Motor ---
 #define IN1 4
 #define IN2 5
